@@ -704,6 +704,10 @@
             "libraryName": "chardet",
             "asOfVersion": "1.0.0"
         },
+        "chart.js": {
+            "libraryName": "chart.js",
+            "asOfVersion": "4.0.1"
+        },
         "chartist": {
             "libraryName": "chartist",
             "asOfVersion": "1.0.0"
@@ -4657,6 +4661,10 @@
             "libraryName": "open-editor",
             "asOfVersion": "2.0.0"
         },
+        "openapi-factory": {
+            "libraryName": "openapi-factory",
+            "asOfVersion": "5.2.31"
+        },
         "openid-client": {
             "libraryName": "openid-client",
             "asOfVersion": "3.7.0"
@@ -5219,6 +5227,10 @@
             "libraryName": "printf",
             "asOfVersion": "0.3.0"
         },
+        "private-ip": {
+            "libraryName": "private-ip",
+            "asOfVersion": "2.3.3"
+        },
         "prosemirror-changeset": {
             "libraryName": "prosemirror-changeset",
             "asOfVersion": "2.2.0"
@@ -5718,6 +5730,10 @@
         "react-email-editor": {
             "libraryName": "react-email-editor",
             "asOfVersion": "1.7.0"
+        },
+        "react-embed-gist": {
+            "libraryName": "react-embed-gist",
+            "asOfVersion": "1.0.22"
         },
         "react-fade-in": {
             "libraryName": "react-fade-in",
@@ -7174,6 +7190,10 @@
         "tesseract.js": {
             "libraryName": "tesseract.js",
             "asOfVersion": "2.0.0"
+        },
+        "testing-library__cypress": {
+            "libraryName": "@testing-library/cypress",
+            "asOfVersion": "7.0.0"
         },
         "testing-library__dom": {
             "libraryName": "@testing-library/dom",
